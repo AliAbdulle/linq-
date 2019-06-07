@@ -1,0 +1,11 @@
+/alidhobey/programming/nss/cohort31/Exercise/linq/bin/Debug/netcoreapp2.2/linq.deps.json
+/alidhobey/programming/nss/cohort31/Exercise/linq/bin/Debug/netcoreapp2.2/linq.runtimeconfig.json
+/alidhobey/programming/nss/cohort31/Exercise/linq/bin/Debug/netcoreapp2.2/linq.runtimeconfig.dev.json
+/alidhobey/programming/nss/cohort31/Exercise/linq/bin/Debug/netcoreapp2.2/linq.dll
+/alidhobey/programming/nss/cohort31/Exercise/linq/bin/Debug/netcoreapp2.2/linq.pdb
+/alidhobey/programming/nss/cohort31/Exercise/linq/obj/Debug/netcoreapp2.2/linq.csprojAssemblyReference.cache
+/alidhobey/programming/nss/cohort31/Exercise/linq/obj/Debug/netcoreapp2.2/linq.csproj.CoreCompileInputs.cache
+/alidhobey/programming/nss/cohort31/Exercise/linq/obj/Debug/netcoreapp2.2/linq.AssemblyInfoInputs.cache
+/alidhobey/programming/nss/cohort31/Exercise/linq/obj/Debug/netcoreapp2.2/linq.AssemblyInfo.cs
+/alidhobey/programming/nss/cohort31/Exercise/linq/obj/Debug/netcoreapp2.2/linq.dll
+/alidhobey/programming/nss/cohort31/Exercise/linq/obj/Debug/netcoreapp2.2/linq.pdb
